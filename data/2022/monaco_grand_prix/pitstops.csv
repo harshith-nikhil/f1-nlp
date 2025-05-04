@@ -1,0 +1,5 @@
+Driver,LapNumber,PitInTime,PitOutTime,PitLaneTime,PitStopDurationSeconds
+STR,1.0,0 days 02:06:59.591000,0 days 02:05:09.278000,-1 days +23:58:09.687000,-110.313
+STR,2.0,0 days 02:09:10.276000,0 days 02:07:26.308000,-1 days +23:58:16.032000,-103.968
+LAT,1.0,0 days 02:07:10.940000,0 days 02:05:11.753000,-1 days +23:58:00.813000,-119.187
+LAT,2.0,0 days 02:09:20.790000,0 days 02:07:47.462000,-1 days +23:58:26.672000,-93.328

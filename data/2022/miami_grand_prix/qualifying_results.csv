@@ -1,0 +1,21 @@
+driver,team,qualifying_position,Q1_time,Q2_time,Q3_time
+LEC,Ferrari,1.0,0 days 00:01:29.474000,0 days 00:01:29.130000,0 days 00:01:28.796000
+SAI,Ferrari,2.0,0 days 00:01:30.079000,0 days 00:01:29.729000,0 days 00:01:28.986000
+VER,Red Bull Racing,3.0,0 days 00:01:29.836000,0 days 00:01:29.202000,0 days 00:01:28.991000
+PER,Red Bull Racing,4.0,0 days 00:01:30.055000,0 days 00:01:29.673000,0 days 00:01:29.036000
+BOT,Alfa Romeo,5.0,0 days 00:01:30.845000,0 days 00:01:29.751000,0 days 00:01:29.475000
+HAM,Mercedes,6.0,0 days 00:01:30.388000,0 days 00:01:29.797000,0 days 00:01:29.625000
+GAS,AlphaTauri,7.0,0 days 00:01:30.779000,0 days 00:01:30.128000,0 days 00:01:29.690000
+NOR,McLaren,8.0,0 days 00:01:30.761000,0 days 00:01:29.634000,0 days 00:01:29.750000
+TSU,AlphaTauri,9.0,0 days 00:01:30.485000,0 days 00:01:30.031000,0 days 00:01:29.932000
+STR,Aston Martin,10.0,0 days 00:01:30.441000,0 days 00:01:29.996000,0 days 00:01:30.676000
+ALO,Alpine,11.0,0 days 00:01:30.407000,0 days 00:01:30.160000,
+RUS,Mercedes,12.0,0 days 00:01:30.490000,0 days 00:01:30.173000,
+VET,Aston Martin,13.0,0 days 00:01:30.677000,0 days 00:01:30.214000,
+RIC,McLaren,14.0,0 days 00:01:30.583000,0 days 00:01:30.310000,
+MSC,Haas F1 Team,15.0,0 days 00:01:30.645000,0 days 00:01:30.423000,
+MAG,Haas F1 Team,16.0,0 days 00:01:30.975000,,
+ZHO,Alfa Romeo,17.0,0 days 00:01:31.020000,,
+ALB,Williams,18.0,0 days 00:01:31.266000,,
+LAT,Williams,19.0,0 days 00:01:31.325000,,
+OCO,Alpine,20.0,,,
