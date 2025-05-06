@@ -7,7 +7,7 @@ from langchain.chat_models import ChatOpenAI
 from langchain.chains import LLMChain
 
 # ←–– Set your OpenAI API key here:
-api_key = "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"
+api_key = ... # enter your API key
 
 def parse_race_and_year(instruction: str):
     """
